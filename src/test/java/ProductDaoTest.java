@@ -8,7 +8,7 @@ import java.util.List;
 public class ProductDaoTest {
     ProductDao productdao=new ProductDao();
 
-    //增加一个修改1
+    //增加一个修改2
     @Test//新增Product测试
     public void testCreateUser(){
         Product product=new Product();
